@@ -14,8 +14,6 @@ const Home = () => {
     getData();
   }, []);
 
-  console.log(items);
-
   return (
     <div>
       <h2>ALL ITEMS</h2>
